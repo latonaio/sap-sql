@@ -15,30 +15,36 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 ### Inventory Management  
 
 * [sap-material-stock-sql](https://github.com/latonaio/sap-material-stock-sql)  
-* [sap-reservation-document-sql](https://github.com/latonaio/sap-reservation-document-sql)   
+* [sap-reservation-document-sql](https://github.com/latonaio/sap-reservation-document-sql)  
+* [sap-inbound-delivery-sql](https://github.com/latonaio/sap-inbound-delivery-sql)
 
 ### Sales Management
 
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)  
-* [sap-sales-pricing-sql](https://github.com/latonaio/sap-sales-pricing-sql)
+* [sap-sales-pricing-sql](https://github.com/latonaio/sap-sales-pricing-sql)  
+* [sap-sales-inquiry-sql](https://github.com/latonaio/sap-sales-inquiry-sql)
+* [sap-sales-quotation-sql](https://github.com/latonaio/sap-sales-quotation-sql)
+* [sap-sales-order-sql](https://github.com/latonaio/sap-sales-order-sql)  
 * [sap-outbound-delivery-sql](https://github.com/latonaio/sap-outbound-delivery-sql)  
-* [sap-billing-document-sql](https://github.com/latonaio/sap-billing-document-sql)   
+* [sap-billing-document-sql](https://github.com/latonaio/sap-billing-document-sql)  
 
 ### Procurement Management
 
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)
-* [sap-purchasing-info-record-sql](https://github.com/latonaio/sap-purchasing-info-record-sql)
-* [sap-purchase-order-sql](https://github.com/latonaio/sap-purchase-order-sql)
 * [sap-purchasing-source-list-sql](https://github.com/latonaio/sap-purchasing-source-list-sql)  
+* [sap-purchasing-info-record-sql](https://github.com/latonaio/sap-purchasing-info-record-sql) 
+* [sap-purchase-requisition-sql](https://github.com/latonaio/sap-purchase-requisition-sql) 
+* [sap-purchase-order-sql](https://github.com/latonaio/sap-purchase-order-sql)
+* [sap-supplier-invoice-sql](https://github.com/latonaio/sap-supplier-invoice-sql)
 
 ### Production Management  
 
-* [sap-bom-sql](https://github.com/latonaio/sap-bom-sql)  
+* [sap-bill-of-material-sql](https://github.com/latonaio/sap-bill-of-material-sql)  
 * [sap-work-center-sql](https://github.com/latonaio/sap-work-center-sql)  
 * [sap-production-routing-sql](https://github.com/latonaio/sap-production-routing-sql)  
 * [sap-material-planning-data-sql](https://github.com/latonaio/sap-material-planning-data-sql)  
 * [sap-planned-independent-requirement-sql](https://github.com/latonaio/sap-planned-independent-requirement-sql)  
-* [sap-production-order-sql](https://github.com/latonaio/sap-production-order-sql)  
+* [sap-production-order-sql](https://github.com/latonaio/sap-production-order-sql)   
 
 ### Plant Management  
 
