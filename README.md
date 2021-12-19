@@ -25,6 +25,7 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 * [sap-sales-inquiry-sql](https://github.com/latonaio/sap-sales-inquiry-sql)
 * [sap-sales-quotation-sql](https://github.com/latonaio/sap-sales-quotation-sql)
 * [sap-sales-order-sql](https://github.com/latonaio/sap-sales-order-sql)  
+* [sap-sales-contract-sql](https://github.com/latonaio/sap-sales-contract-sql)
 * [sap-outbound-delivery-sql](https://github.com/latonaio/sap-outbound-delivery-sql)  
 * [sap-billing-document-sql](https://github.com/latonaio/sap-billing-document-sql)  
 
@@ -35,6 +36,7 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 * [sap-purchasing-info-record-sql](https://github.com/latonaio/sap-purchasing-info-record-sql) 
 * [sap-purchase-requisition-sql](https://github.com/latonaio/sap-purchase-requisition-sql) 
 * [sap-purchase-order-sql](https://github.com/latonaio/sap-purchase-order-sql)
+* [sap-purchase-contract-sql](https://github.com/latonaio/sap-purchase-contract-sql)
 * [sap-supplier-invoice-sql](https://github.com/latonaio/sap-supplier-invoice-sql)
 
 ### Production Management  
