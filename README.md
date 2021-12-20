@@ -27,7 +27,7 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 * [sap-sales-order-sql](https://github.com/latonaio/sap-sales-order-sql)  
 * [sap-sales-contract-sql](https://github.com/latonaio/sap-sales-contract-sql)
 * [sap-outbound-delivery-sql](https://github.com/latonaio/sap-outbound-delivery-sql)  
-* [sap-billing-document-sql](https://github.com/latonaio/sap-billing-document-sql)  
+* [sap-billing-document-sql](https://github.com/latonaio/sap-billing-document-sql)    
 
 ### Procurement Management
 
