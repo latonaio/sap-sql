@@ -39,6 +39,7 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 * [sap-purchase-requisition-sql](https://github.com/latonaio/sap-purchase-requisition-sql) 
 * [sap-purchase-order-sql](https://github.com/latonaio/sap-purchase-order-sql)
 * [sap-purchase-contract-sql](https://github.com/latonaio/sap-purchase-contract-sql)
+* [sap-purchase-scheduling-agreement-sql](https://github.com/latonaio/sap-purchase-scheduling-agreement-sql)
 * [sap-supplier-invoice-sql](https://github.com/latonaio/sap-supplier-invoice-sql)
 
 ### Production Management  
