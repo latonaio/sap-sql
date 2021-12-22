@@ -56,6 +56,10 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 
 * [sap-equipment-master-sql](https://github.com/latonaio/sap-equipment-master-sql)  
 
+### Customer Service
+
+* [sap-service-order-sql](https://github.com/latonaio/sap-service-order-sql)
+
 
 ## Kubernetes 上での Pod の立ち上げ、データベースの作成、テーブルの作成などの方法  
 Kubernetes 上での Pod の立ち上げ、データベースの作成、テーブルの作成などの方法については、[mysql-kube](https://github.com/latonaio/mysql-kube) を参照してください。  
