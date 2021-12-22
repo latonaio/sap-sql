@@ -49,6 +49,7 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 * [sap-production-routing-sql](https://github.com/latonaio/sap-production-routing-sql)  
 * [sap-material-planning-data-sql](https://github.com/latonaio/sap-material-planning-data-sql)  
 * [sap-planned-independent-requirement-sql](https://github.com/latonaio/sap-planned-independent-requirement-sql)  
+* [sap-planned-order-sql](https://github.com/latonaio/sap-planned-order-sql)
 * [sap-production-order-sql](https://github.com/latonaio/sap-production-order-sql)   
 
 ### Plant Management  
