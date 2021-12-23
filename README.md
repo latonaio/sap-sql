@@ -7,6 +7,11 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 ## sap-sql データベース に 定義される SAP関連テーブル の所在
 本レポジトリを参照して作成されたデータベース 内に SAP関連テーブル を定義する際には、下記を参照してください。  
 
+### Central Functions
+
+* [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)
+* [sap-characteristic-sql](https://bitbucket.org/latonaio/sap-characteristic-sql/src/master/)
+
 ### Logistics  
 
 * [sap-product-master-sql](https://github.com/latonaio/sap-product-master-sql)
