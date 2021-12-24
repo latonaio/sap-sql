@@ -15,6 +15,7 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 ### Logistics  
 
 * [sap-product-master-sql](https://github.com/latonaio/sap-product-master-sql)
+* [sap-product-master-class-sql](https://github.com/latonaio/sap-product-master-class-sql)  
 * [sap-batch-master-record-sql](https://github.com/latonaio/sap-batch-master-record-sql) 
 
 ### Inventory Management  
