@@ -10,6 +10,7 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 ### Central Functions
 
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)
+* [sap-classification-sql](https://github.com/latonaio/sap-classification-sql)
 * [sap-characteristic-sql](https://github.com/latonaio/sap-characteristic-sql)
 
 ### Logistics  
