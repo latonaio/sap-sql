@@ -63,11 +63,12 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 ### Plant Management  
 
 * [sap-equipment-master-sql](https://github.com/latonaio/sap-equipment-master-sql)  
-* [sap-maintenance-order-sql](https://github.com/latonaio/sap-maintenance-order-sql))
+* [sap-maintenance-order-sql](https://github.com/latonaio/sap-maintenance-order-sql)
 
 ### Customer Service
 
 * [sap-service-order-sql](https://github.com/latonaio/sap-service-order-sql)
+* [sap-service-confirmation-sql](https://github.com/latonaio/sap-service-confirmation-sql)
 
 
 ## Kubernetes 上での Pod の立ち上げ、データベースの作成、テーブルの作成などの方法  
