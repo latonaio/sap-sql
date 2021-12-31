@@ -9,7 +9,7 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 
 ### Central Functions
 
-* [sap-characteristic-sql](https://github.com/latonaio/sap-characteristic-sql)
+* [sap-classification-sql](https://github.com/latonaio/sap-classification-sql)
 * [sap-characteristic-sql](https://github.com/latonaio/sap-characteristic-sql)
 * [sap-bank-master-sql](https://github.com/latonaio/sap-bank-master-sql)
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)
@@ -31,7 +31,7 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 ### Sales Management
 
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)  
-* [sap-credit-management-sql](https://github.com/latonaio/sap-credit-management-sql)
+* [sap-credit-management-master-sql](https://github.com/latonaio/sap-credit-management-sql)
 * [sap-customer-material-sql](https://github.com/latonaio/sap-customer-material-sql)  
 * [sap-sales-pricing-sql](https://github.com/latonaio/sap-sales-pricing-sql)  
 * [sap-sales-inquiry-sql](https://github.com/latonaio/sap-sales-inquiry-sql)
