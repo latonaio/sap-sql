@@ -9,7 +9,6 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 
 ### Central Functions
 
-* [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)
 * [sap-characteristic-sql](https://github.com/latonaio/sap-characteristic-sql)
 * [sap-characteristic-sql](https://github.com/latonaio/sap-characteristic-sql)
 * [sap-bank-master-sql](https://github.com/latonaio/sap-bank-master-sql)
@@ -32,6 +31,7 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 ### Sales Management
 
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)  
+* [sap-credit-management-sql](https://github.com/latonaio/sap-credit-management-sql)
 * [sap-customer-material-sql](https://github.com/latonaio/sap-customer-material-sql)  
 * [sap-sales-pricing-sql](https://github.com/latonaio/sap-sales-pricing-sql)  
 * [sap-sales-inquiry-sql](https://github.com/latonaio/sap-sales-inquiry-sql)
@@ -56,6 +56,7 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 ### Production Management  
 
 * [sap-bill-of-material-sql](https://github.com/latonaio/sap-bill-of-material-sql)  
+* [sap-bill-of-material-where-used-list-sql](https://github.com/latonaio/sap-bill-of-material-sql) 
 * [sap-work-center-sql](https://github.com/latonaio/sap-work-center-sql)  
 * [sap-production-routing-sql](https://github.com/latonaio/sap-production-routing-sql)  
 * [sap-material-planning-data-sql](https://github.com/latonaio/sap-material-planning-data-sql)  
@@ -67,6 +68,7 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 ### Plant Management  
 
 * [sap-equipment-master-sql](https://github.com/latonaio/sap-equipment-master-sql)  
+* [sap-equipment-hierarchy-sql](https://github.com/latonaio/sap-equipment-hierarchy-sql)  
 * [sap-maintenance-plan-sql](https://github.com/latonaio/sap-maintenance-plan-sql)
 * [sap-maintenance-item-sql](https://github.com/latonaio/sap-maintenance-plan-sql)
 * [sap-maintenance-order-sql](https://github.com/latonaio/sap-maintenance-order-sql)
