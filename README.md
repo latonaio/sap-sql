@@ -10,14 +10,17 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 ### Central Functions
 
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)
-* [sap-classification-sql](https://github.com/latonaio/sap-classification-sql)
 * [sap-characteristic-sql](https://github.com/latonaio/sap-characteristic-sql)
+* [sap-characteristic-sql](https://github.com/latonaio/sap-characteristic-sql)
+* [sap-bank-master-sql](https://github.com/latonaio/sap-bank-master-sql)
+* [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)
 
 ### Logistics  
 
-* [sap-product-master-sql](https://github.com/latonaio/sap-product-master-sql)
-* [sap-product-master-class-sql](https://github.com/latonaio/sap-product-master-class-sql)  
-* [sap-batch-master-record-sql](https://github.com/latonaio/sap-batch-master-record-sql) 
+* [sap-product-group-sql](https://github.com/latonaio/sap-product-group-sql)  
+* [sap-product-master-sql](https://github.com/latonaio/sap-product-master-sql)  
+* [sap-product-master-class-sql](https://github.com/latonaio/sap--product-master-class-sql) 
+* [sap-batch-master-record-sql](https://github.com/latonaio/sap-batch-master-record-sql)  
 
 ### Inventory Management  
 
@@ -29,6 +32,7 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 ### Sales Management
 
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)  
+* [sap-customer-material-sql](https://github.com/latonaio/sap-customer-material-sql)  
 * [sap-sales-pricing-sql](https://github.com/latonaio/sap-sales-pricing-sql)  
 * [sap-sales-inquiry-sql](https://github.com/latonaio/sap-sales-inquiry-sql)
 * [sap-sales-quotation-sql](https://github.com/latonaio/sap-sales-quotation-sql)
@@ -63,7 +67,11 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 ### Plant Management  
 
 * [sap-equipment-master-sql](https://github.com/latonaio/sap-equipment-master-sql)  
+* [sap-maintenance-plan-sql](https://github.com/latonaio/sap-maintenance-plan-sql)
+* [sap-maintenance-item-sql](https://github.com/latonaio/sap-maintenance-plan-sql)
 * [sap-maintenance-order-sql](https://github.com/latonaio/sap-maintenance-order-sql)
+* [sap-maintenance-order-confirmation-sql](https://github.com/latonaio/sap-maintenance-order-confirmation-sql)
+* [sap-maintenance-notification-sql](https://github.com/latonaio/sap-maintenance-order-confirmation-sql)
 
 ### Customer Service
 
