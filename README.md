@@ -27,6 +27,7 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 * [sap-reservation-document-sql](https://github.com/latonaio/sap-reservation-document-sql)  
 * [sap-inbound-delivery-sql](https://github.com/latonaio/sap-inbound-delivery-sql)
 * [sap-material-document-sql](https://github.com/latonaio/sap-material-document-sql)
+* [sap-physical-inventory-document-sql](https://github.com/latonaio/sap-physical-inventory-document-sql)
 
 ### Sales Management
 
