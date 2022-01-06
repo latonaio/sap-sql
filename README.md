@@ -66,15 +66,15 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 * [sap-production-order-sql](https://github.com/latonaio/sap-production-order-sql)   
 * [sap-production-order-confirmation-sql](https://github.com/latonaio/sap-production-order-confirmation-sql)  
 
-### Plant Management  
+### Plant Maintenance  
 
 * [sap-equipment-master-sql](https://github.com/latonaio/sap-equipment-master-sql)  
 * [sap-equipment-hierarchy-sql](https://github.com/latonaio/sap-equipment-hierarchy-sql)  
 * [sap-maintenance-plan-sql](https://github.com/latonaio/sap-maintenance-plan-sql)
 * [sap-maintenance-item-sql](https://github.com/latonaio/sap-maintenance-plan-sql)
+* [sap-maintenance-notification-sql](https://github.com/latonaio/sap-maintenance-order-confirmation-sql)
 * [sap-maintenance-order-sql](https://github.com/latonaio/sap-maintenance-order-sql)
 * [sap-maintenance-order-confirmation-sql](https://github.com/latonaio/sap-maintenance-order-confirmation-sql)
-* [sap-maintenance-notification-sql](https://github.com/latonaio/sap-maintenance-order-confirmation-sql)
 
 ### Customer Service
 
