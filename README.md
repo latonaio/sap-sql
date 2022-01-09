@@ -42,6 +42,8 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 * [sap-sales-scheduling-agreement-sql](https://github.com/latonaio/sap-sales-scheduling-agreement-sql)
 * [sap-outbound-delivery-sql](https://github.com/latonaio/sap-outbound-delivery-sql)  
 * [sap-billing-document-sql](https://github.com/latonaio/sap-billing-document-sql)  
+* [sap-credit-memo-request-sql](https://github.com/latonaio/sap-credit-memo-request-sql)
+* [sap-debit-memo-request-sql](https://github.com/latonaio/sap-debit-memo-request-sql)
 
 ### Procurement Management
 
@@ -68,13 +70,19 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 
 ### Plant Maintenance  
 
+* [sap-functional-location-sql](https://github.com/latonaio/sap-functional-location-sql)
 * [sap-equipment-master-sql](https://github.com/latonaio/sap-equipment-master-sql)  
 * [sap-equipment-hierarchy-sql](https://github.com/latonaio/sap-equipment-hierarchy-sql)  
+* [sap-maintenance-bill-of-material-sql](https://github.com/latonaio/sap-maintenance-bill-of-material-sql)
 * [sap-maintenance-plan-sql](https://github.com/latonaio/sap-maintenance-plan-sql)
-* [sap-maintenance-item-sql](https://github.com/latonaio/sap-maintenance-plan-sql)
+* [sap-maintenance-item-sql](https://github.com/latonaio/sap-maintenance-item-sql)
 * [sap-maintenance-notification-sql](https://github.com/latonaio/sap-maintenance-order-confirmation-sql)
 * [sap-maintenance-order-sql](https://github.com/latonaio/sap-maintenance-order-sql)
 * [sap-maintenance-order-confirmation-sql](https://github.com/latonaio/sap-maintenance-order-confirmation-sql)
+* [sap-defect-sql](https://github.com/latonaio/sap-defect-sql)
+* [sap-maintenance-task-list-sql](https://github.com/latonaio/sap-maintenance-task-list-sql)
+* [sap-measuring-point-sql](https://github.com/latonaio/sap-measuring-point-sql)
+* [sap-measurement-document-sql](https://github.com/latonaio/sap-measurement-document-sql)
 
 ### Customer Service
 
