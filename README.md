@@ -41,6 +41,7 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 * [sap-sales-contract-sql](https://github.com/latonaio/sap-sales-contract-sql)
 * [sap-sales-scheduling-agreement-sql](https://github.com/latonaio/sap-sales-scheduling-agreement-sql)
 * [sap-outbound-delivery-sql](https://github.com/latonaio/sap-outbound-delivery-sql)  
+* [sap-customer-return-sql](https://github.com/latonaio/sap-customer-return-sql)  
 * [sap-billing-document-sql](https://github.com/latonaio/sap-billing-document-sql)  
 * [sap-credit-memo-request-sql](https://github.com/latonaio/sap-credit-memo-request-sql)
 * [sap-debit-memo-request-sql](https://github.com/latonaio/sap-debit-memo-request-sql)
