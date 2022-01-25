@@ -74,6 +74,10 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 
 * [sap-master-recipe-sql](https://github.com/latonaio/sap-master-recipe-sql) 
 
+### Quality Management  
+
+* [sap-inspection-plan-sql](https://github.com/latonaio/sap-inspection-plan-sql) 
+
 ### Plant Maintenance  
 
 * [sap-functional-location-sql](https://github.com/latonaio/sap-functional-location-sql)
