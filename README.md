@@ -73,11 +73,13 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 ### Process Management 
 
 * [sap-master-recipe-sql](https://github.com/latonaio/sap-master-recipe-sql) 
+* [sap-process-order-sql](https://github.com/latonaio/sap-process-order-sql)
 * [sap-process-order-confirmation-sql](https://github.com/latonaio/sap-process-order-confirmation-sql)
 
 ### Quality Management  
 
 * [sap-inspection-plan-sql](https://github.com/latonaio/sap-inspection-plan-sql) 
+* [sap-quality-info-record-sql](https://github.com/latonaio/sap-quality-info-record-sql) 
 
 ### Plant Maintenance  
 
@@ -103,4 +105,5 @@ sap-sql は、そのままクラウド環境におけるアプリケーション
 
 ## Kubernetes 上での Pod の立ち上げ、データベースの作成、テーブルの作成などの方法  
 Kubernetes 上での Pod の立ち上げ、データベースの作成、テーブルの作成などの方法については、[mysql-kube](https://github.com/latonaio/mysql-kube) を参照してください。  
+
 
